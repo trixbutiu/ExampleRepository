@@ -2,3 +2,4 @@ Sample text
 update
 second update
 update from branch1
+update from branch2
